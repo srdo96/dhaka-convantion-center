@@ -5,6 +5,9 @@
 .f-poppins {
   font-family: "Poppins", sans-serif;
 }
-.mishti-kumra-rounded {
+.dhaka-cc-rounded {
   border-radius: 25px;
+}
+.dhaka-cc-hot-position {
+  right: 10px;
 }
